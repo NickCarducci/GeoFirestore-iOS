@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 An alternative to the GeoFire library provided by Firebase, but compatible with Cloud Firestore. To use, just create a Geofirestore instance and point it to a collection reference containing the documents you'd like to run location queries on. This version has been updated for latest Firebase version
                        DESC
 
-  s.homepage         = 'https://github.com/imperiumlabs/Geofirestore-ios.git'
+  s.homepage         = 'https://github.com/NickCarducci/Geofirestore-ios.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Dhruv Shah' => 'dhruv.shah@gmail.com', 'Nikhil Sridhar' => 'nik.sridhar@gmail.com', 'Glactin Graces' => 'basement.aspirations@gmail.com' }
